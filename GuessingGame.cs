@@ -49,3 +49,7 @@ namespace GraZGadywanieLiczby
         }
     }
 }
+
+
+//use to compile code: https://www.onlinegdb.com/online_csharp_compiler
+
